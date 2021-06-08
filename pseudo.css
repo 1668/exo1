@@ -1,0 +1,45 @@
+.block{
+    width: 200px;
+    height: 200px;
+    border: solid violet 3px;
+    background-color:blueviolet;
+}
+
+.block1{
+    width: 200px;
+    height: 200px;
+    border: solid violet 3px;
+    background-color:blueviolet;
+}
+
+.block2{
+    width: 200px;
+    height: 200px;
+    border: solid violet 3px;
+    background-color:blueviolet;
+}
+
+.block3{
+    width: 200px;
+    height: 200px;
+    border: solid violet 3px;
+    background-color:blueviolet;
+}
+
+
+.block:hover{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: solid violet 3px;
+    background-color:yellow;
+}
+
+.normal{
+height: 400px;
+    background: url("https://tse3.explicit.bing.net/th?id=OIP.ovj85tWUoP9aYW1cf19imAHaER&pid=Api&P=0&w=264&h=153")no-repeat center center/cover ;
+}
+
+.normal:hover{
+    background: url("https://tse1.mm.bing.net/th?id=OIP.I_ngj2kiS-LUtqGIwmzE-gHaE8&pid=Api&P=0&w=242&h=162")no-repeat center center/cover;
+}
